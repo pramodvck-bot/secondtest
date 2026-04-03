@@ -1,2 +1,1 @@
-My name is pramod
-My Age is 30
+Branch 1 and Branch 2 changes combined
